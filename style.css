@@ -1,0 +1,114 @@
+body{
+  background-color:#ECEEF1;
+}
+
+header{
+  display:flex;
+  flex-direction:row;
+  justify-content:flex-end;
+  align-items:center;
+  margin-right:20px;
+}
+
+.headertext p {
+  margin-bottom:3px;
+  font-size:12px;
+}
+
+.descrip {
+  text-align:center;
+  font-size:18px;
+
+}
+
+.headertext a{
+  text-decoration:none;
+  font-size:12px;
+}
+
+button {
+  background-color:blue;
+  padding:8px 20px;
+  font-size:14px;
+  border-radius:10px;
+  color:white;
+}
+
+.intuit{
+   background-color:#ECEEF1;
+  text-align:center;
+}
+
+.container{
+  box-sizing: border-box;
+  width:500px;
+  background-color:white;
+  margin: 0 auto;
+  padding:10px;
+}
+
+.container a{
+  text-decoration:none;
+  font-size:12px;
+}
+
+
+ul li{
+  display:inline;
+  padding:20px;
+
+}
+
+.container a{
+  color:grey;
+  font-size:20px;
+
+}
+
+hr{
+  width:400px;
+}
+
+.descrip p {
+  font-size:50px;
+}
+
+
+label {
+    font-size: 14px;
+    line-height: 25px;
+    margin-left:80px;
+    padding-bottom: 6px;
+}
+
+input{
+  width:320px;
+  height:15px;
+  padding-bottom:20px;
+  margin-left:80px;
+  margin-right:50px;
+
+
+}
+
+.form button {
+  margin-top:15px;
+  width:320px;
+}
+
+.disclaimer a {
+  color:blue;
+  text-decoration:none;
+  font-size:12px;
+}
+
+.disclaimer {
+  font-size:12px;
+  text-align:center;
+}
+
+footer{
+  margin-top:30px;
+  font-size:10px;
+  text-align:center;
+}
